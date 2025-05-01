@@ -1,8 +1,19 @@
-# Project Mgmt App
+# 📁 Project Management System (Full-Stack, GraphQL)
 
-Project management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
+A full-featured project management application built with **GraphQL + Express + MongoDB + React + Apollo Client**.
 
-## Usage
+## 🔧 Features
+
+### Backend (Express + GraphQL + MongoDB)
+- GraphQL API for managing projects and clients
+- CRUD operations using GraphQL schemas and resolvers
+- MongoDB integration with Mongoose
+- Express server setup
+
+### Frontend (React + Apollo Client)
+- UI for managing projects and clients
+- Apollo Client for communicating with the GraphQL API
+- React Router for navigation
 
 ### Install
 
